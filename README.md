@@ -42,15 +42,13 @@ Demonstrating wireless optical signaling and basic signal decoding using arduino
 * Simple and low-cost hardware implementation
 
 
-### Hardware images
+### Hardware Images
 
-(Morse_proj_image_1.jpeg)
+![Morse Project Image 1](Morse_proj_image_1.jpeg)
 
-(Morse_proj_image_2.jpeg)
+![Morse Project Image 2](Morse_proj_image_2.jpeg)
 
-(Morse_proj_image_3.jpeg)
-
-
+![Morse Project Image 3](Morse_proj_image_3.jpeg)
 
 # Files in this Repository
 
